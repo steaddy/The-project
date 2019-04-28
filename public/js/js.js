@@ -173,11 +173,8 @@ Vue.component('registration-enter-component', {
         },
         loginUserHandler() {
             if(this.validationName() && this.validationPass()) {
-                fetch('http://localhost:3000/users', {
-                    method: 'GET',
-                }).then(response => response.json())
-                    .then(response => console.log(response));
-                //window.location.href = "index.html";
+
+                window.location.href = "index.html";
             }
         },
         validationName() {
