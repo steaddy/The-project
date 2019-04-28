@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "name": "Name",
+      "pass": "1234",
+      "email": "email@dot.com",
+      "id": 1
+    },
+    {
+      "name": "The Name",
+      "pass": "1234",
+      "email": "a@a.com",
+      "id": 2
+    },
+    {
+      "name": "Another Name",
+      "pass": "1234",
+      "email": "a@a.ru",
+      "id": 3
+    },
+    {
+      "name": "Another Name",
+      "pass": "1234",
+      "email": "a@a.ru",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Modern T-short",
+      "price": 60,
+      "imgURL": "images/product4.jpg",
+      "category": "men",
+      "quantity": 3
+    },
+    {
+      "id": 2,
+      "name": "Some light jacket",
+      "price": 210,
+      "imgURL": "images/product1.jpg",
+      "category": "men",
+      "quantity": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Modern T-short",
+      "price": 60,
+      "imgURL": "images/product4.jpg",
+      "category": "men"
+    },
+    {
+      "id": 2,
+      "name": "Some light jacket",
+      "price": 210,
+      "imgURL": "images/product1.jpg",
+      "category": "men"
+    },
+    {
+      "id": 3,
+      "name": "Cool men`s coat",
+      "price": 700,
+      "imgURL": "images/product2.jpg",
+      "category": "men"
+    },
+    {
+      "id": 4,
+      "name": "Beard jacket",
+      "price": 670,
+      "imgURL": "images/product3.jpg",
+      "category": "men"
+    },
+    {
+      "id": 5,
+      "name": "Beach sun hat",
+      "price": 40,
+      "imgURL": "images/product5.jpg",
+      "category": "men"
+    },
+    {
+      "id": 6,
+      "name": "Just a jacket",
+      "price": 320,
+      "imgURL": "images/product6.jpg",
+      "category": "men"
+    },
+    {
+      "id": 7,
+      "name": "Stupid gay hat",
+      "price": 280,
+      "imgURL": "images/product7.jpg",
+      "category": "men"
+    },
+    {
+      "id": 8,
+      "name": "Short winter bathrobe",
+      "price": 640,
+      "imgURL": "images/product8.jpg",
+      "category": "men"
+    }
+  ]
+}
